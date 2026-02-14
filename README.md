@@ -6,3 +6,4 @@
 * อาจต้องใช้ Wi-Fi ในการเล่น
 # เพิ่มเติม
 วิดีโอสอน: [คลิกที่นี่](https://www.youtube.com/watch?v=pP7e78vSVvo)
+![images (5)](https://github.com/user-attachments/assets/9c39cf7a-0452-4378-9df9-9228f4128eb0)
