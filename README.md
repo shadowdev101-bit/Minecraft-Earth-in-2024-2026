@@ -1,1 +1,1 @@
-# Minecraft-Earth-in-2024-2026
+# Minecraft Earth in 2024 2026 (ไทย)
