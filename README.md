@@ -5,4 +5,4 @@
 * เล่นได้เฉพาะ Android
 * อาจต้องใช้ Wi-Fi ในการเล่น
 # เพิ่มเติม
-วิดีโอสอน: [คลิกที่นี่](https://github.com/Project-Genoa/Vienna-docker)
+วิดีโอสอน: [คลิกที่นี่](https://www.youtube.com/watch?v=pP7e78vSVvo)
